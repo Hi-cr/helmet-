@@ -1,4 +1,3 @@
-# helmet
 
 ## Loss、mAP、Precision、Recall 變化
 
